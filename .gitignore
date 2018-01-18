@@ -1,0 +1,5 @@
+Installer/obj/
+packages/
+Installer/bin/
+.vs/Installer/v15/Server/
+.vs/slnx.sqlite
